@@ -8,7 +8,7 @@ Estrutura do Repositório
 
 data/: Contém a base de dados utilizada.
 notebooks/: Contém o código fonte do projeto em formato Jupyter Notebook.
-apresentacao.pdf: Apresentação final em PDF.
+apresentacao.pptx: Apresentação final.
 README.md: Documentação do projeto.
 
 Metodologia e Algoritmos
